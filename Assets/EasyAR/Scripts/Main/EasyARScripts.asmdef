@@ -1,0 +1,17 @@
+{
+    "name": "EasyARScripts",
+    "references": [
+        "GUID:6f120e23a14dfce47b50a4774c0534b2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
