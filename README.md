@@ -1,7 +1,7 @@
 # Template for an AR streaming APP built in Unity 2020 with EasyAR - iOS and Android
 
 This is a blank Unity template that you to build an AR App with EasyAR.  Once built, when an image is triggered, it will play a streaming video that is hosted externally. The video will pause when the trigger image is no longer tracked. **I suggest you use Vuforia instead of EasyAR for smoother tracking, but if you need a jumping off point that will for sure build (even if framerate is low), you can use this template.** <br /><br />
-**Includes a tutorial on How to Build and Update an HLS Streaming AR App in Unity with Vuforia from scratch.**<br />
+**Includes a tutorial on How to Build and Update an HLS Streaming AR App in Unity with Vuforia from scratch.**<br /><br />
 Vuforia tutorial: [iOS](https://github.com/Oh-Hello-Alex/-Template-Unity2020StreamingARwithVuforia-iOS) | [Android](https://github.com/Oh-Hello-Alex/-Template-Unity2020StreamingARwithVuforia-Android)<br />
 
 
