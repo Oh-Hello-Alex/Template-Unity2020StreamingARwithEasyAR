@@ -15,6 +15,9 @@ AVProVideo (iOS) 1.11.7 (if using android, please delete this asset and install 
 DOTween Pro  1.0.178 <br />
 
 
+## Setup
+
+
 For complete instructions on how to set up this app and prepare you materials, **please see the accompanying PDF Walkthrough.** <br />
 It includes: 
 *    Preparing your media for streaming / how-where to convert videos to .m3u8 files for HLS
